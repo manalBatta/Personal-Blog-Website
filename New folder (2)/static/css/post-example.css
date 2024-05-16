@@ -90,6 +90,7 @@ body {
 }
 
 .bali-highlights {
+  color: #2a77aa;
   display: flex;
   flex-direction: column;
   background-color: white;
@@ -123,8 +124,8 @@ body {
   padding: 2%;
 }
 
-a {
-  color: black;
+li > a {
+  color: #2a77aa;
   text-decoration: none;
   line-height: 2em;
   font-size: 1.2em;
@@ -135,6 +136,7 @@ p {
   font-size: 1.5em;
   line-height: 1.1em;
   padding: 5% 15% 0 15%;
+  color: #0f2b3d;
 }
 
 .bali-list {
